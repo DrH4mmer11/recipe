@@ -14,6 +14,7 @@ Reasons this recipe is my **favourite**
 
 Source: https://....com
 #### This is a REMOTE change :O
+![Image of the completed recipe](recipe.png)
 
 ```python
 
