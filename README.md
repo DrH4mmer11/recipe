@@ -1,13 +1,21 @@
-### This is a LOCAL change :)
-# My Favourite Recipe
-line 2 changed remotely
-Created by Derek
-fourth line changed locally
-## Recipe Name
+# This is a LOCAL change :)
+## My Favourite Recipe
+line 2 changed remotely  
+Created by ***Derek***  
+fourth line changed locally  
+### Recipe Name
 
 Recipe origin
 
-Why this recipe is my favourite
+Reasons this recipe is my **favourite**
+1. I have known it for a *long* time.
+2. It is a combination of my favourite flavours.
+3. It is **easy to make.**
 
 Source: https://....com
-### This is a REMOTE change :O
+#### This is a REMOTE change :O
+![Image of the completed recipe](recipe.png)
+
+```python
+
+```
